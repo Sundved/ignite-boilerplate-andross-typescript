@@ -1,6 +1,6 @@
 // @cliDescription  Generates a screen with a ListView/Flatlist/SectionList + walkthrough.
 
-const patterns = require('../lib/patterns')
+const patterns = require('../../lib/patterns')
 
 module.exports = async function (context) {
   // grab some features
